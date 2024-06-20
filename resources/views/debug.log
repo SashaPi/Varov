@@ -1,0 +1,4 @@
+[0614/131243.051:ERROR:registration_protocol_win.cc(106)] CreateFile: Не удается найти указанный файл. (0x2)
+[0614/131259.939:ERROR:registration_protocol_win.cc(106)] CreateFile: Не удается найти указанный файл. (0x2)
+[0614/133149.353:ERROR:registration_protocol_win.cc(106)] CreateFile: Не удается найти указанный файл. (0x2)
+[0614/133204.919:ERROR:registration_protocol_win.cc(106)] CreateFile: Не удается найти указанный файл. (0x2)
